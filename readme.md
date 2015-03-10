@@ -2,8 +2,6 @@
 
 > Check JavaScript code style with [jscs](https://github.com/jscs-dev/node-jscs)
 
-![](screenshot.png)
-
 *Issues with the output should be reported on the jscs [issue tracker](https://github.com/jscs-dev/node-jscs/issues).*
 
 
