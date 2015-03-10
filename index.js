@@ -119,7 +119,7 @@ module.exports = function (options) {
 				'title': 'JSCS ' + path.basename(file.path),
 				'fullTitle': file.path,
 				'duration': 0,
-				'error': err
+				'error': err.message + ''
 			});
 		}
 
