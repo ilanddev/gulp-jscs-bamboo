@@ -1,6 +1,6 @@
 {
   "name": "gulp-jscs-bamboo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Report JavaScript Code Style to Bamboo",
   "license": "CC BY 3.0",
   "repository": {
